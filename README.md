@@ -1,4 +1,4 @@
-### Anime Animations for QMK Firmware
+## Anime Animations for QMK Firmware
 When I first built my Corne, I couldn't find any anime animations for it. And what's the point in having OLED displays if you can't display anime girls on them? FR FR.
 Shout out to my sister for making this animation.
 
@@ -8,10 +8,10 @@ Feel free to use them.
 If you have any other anime animations and want to share them, I would appreciate pull requests!
 
 
-Niunia classic:
+### Niunia classic:
 
 ![Niunia Animation](niunia_animations/niunia/niunia_readme.gif)
 
-Niunia neg:
+### Niunia neg:
 
 ![Niunia Animation](niunia_animations/niunia_neg/niunia_readme.gif)
