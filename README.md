@@ -9,7 +9,9 @@ If you have any other anime animations and want to share them, I would appreciat
 
 
 Niunia classic:
+
 ![Niunia Animation](niunia_animations/niunia/niunia_readme.gif)
 
 Niunia neg:
+
 ![Niunia Animation](niunia_animations/niunia_neg/niunia_readme.gif)
